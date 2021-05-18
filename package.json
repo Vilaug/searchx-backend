@@ -14,8 +14,10 @@
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.2",
     "elasticsearch": "^16.5.0",
+    "en-inflectors": "^1.0.12",
     "express": "^4.17.1",
     "express-session": "^1.15.6",
+    "fastest-levenshtein": "^1.0.12",
     "foreman": "^3.0.1",
     "forever": "^2.0.0",
     "kue": "^0.11.6",
@@ -29,6 +31,7 @@
     "request": "^2.88.0",
     "socket.io": "^2.3.0",
     "stopword": "^1.0.0",
+    "synonyms": "^1.0.1",
     "trie-search": "^1.2.11",
     "underscore": "^1.9.2"
   },
