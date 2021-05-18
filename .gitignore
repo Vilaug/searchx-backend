@@ -155,6 +155,5 @@ fabric.properties
 .DS_Store
 
 python/preprocessing/corenlp/
-
- __pycache__/
- *.pyc
+__pycache__/
+*.pyc
