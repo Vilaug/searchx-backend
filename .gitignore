@@ -153,3 +153,8 @@ fabric.properties
 # Mac
 
 .DS_Store
+
+python/preprocessing/corenlp/
+
+ __pycache__/
+ *.pyc
