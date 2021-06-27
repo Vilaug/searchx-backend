@@ -10,7 +10,7 @@ How to setup corpus collection if not using the data collected:
    imported, and their results retrieved
   
 
-How to import corpus collected data:
+How to import collected corpus data:
 
 1. Download and extract the data, it can be found here: https://drive.google.com/uc?id=1utMND5IPfTkNGDlEyMjm-aZJ9rpQt4t1&export=download
 2. Use the command `mongorestore --host <your_db_host> --port <your_db_port> --db aggregated-search dump/aggregated-search` to import the data into the database.
