@@ -3,7 +3,6 @@
 const search = require("../../../services/search");
 const scrap = require("../../../services/scrap");
 const config = require("../../../config/config");
-const aggregatedSearch = require("../../../services/search/aggregatedSearch.js");
 
 exports.search = function (req, res) {
     const userId = req.query.userId || "";
@@ -16,7 +15,6 @@ exports.search = function (req, res) {
         req.query.providerName || process.env.DEFAULT_SEARCH_PROVIDER;
     let relevanceFeedback = req.query.relevanceFeedback || "shared";
     let distributionOfLabour = req.query.distributionOfLabour || "false";
-    aggregatedSearch.findRelevantVerticals(query);
     search
         .search(
             query,

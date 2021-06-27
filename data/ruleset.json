@@ -1,0 +1,134 @@
+{
+  "General": [],
+  "Video": [
+    "video",
+    "clip",
+    "vid",
+    "youtube"
+  ],
+  "Jobs": [
+    "hiring",
+    "job",
+    "vacancy",
+    "salary",
+    "linkedin",
+    "internship"
+  ],
+  "Academic": [
+    "university",
+    "college",
+    "research",
+    "education"
+  ],
+  "Photo/Pictures": [
+    "photo",
+    "image",
+    "pics",
+    "photograph"
+  ],
+  "Encyclopedia": [
+    "wiki",
+    "encyclopedia",
+    "definition"
+  ],
+  "Travel": [
+    "flights",
+    "vacation",
+    "sight",
+    "travel"
+  ],
+  "Shopping": [
+    "order",
+    "commerce",
+    "shopping"
+  ],
+  "Tech": [
+    "tech"
+  ],
+  "Health": [
+    "fitness",
+    "bodybuilding",
+    "injury",
+    "pain",
+    "ache",
+    "Health"
+  ],
+  "Kids": [
+    "children",
+    "cartoon",
+    "kids",
+    "toy",
+    "baby"
+  ],
+  "Recipes": [
+    "recipe",
+    "ingredients"
+  ],
+  "News": [
+    "news",
+    "broadcast",
+    "newspaper",
+    "paparazzi"
+  ],
+  "Social": [
+    "social",
+    "facebook",
+    "insta",
+    "twitter",
+    "tweet"
+  ],
+  "Books": [
+    "novel",
+    "kindle",
+    "book"
+  ],
+  "Sports": [
+    "sport"
+  ],
+  "Games": [
+    "fps",
+    "mmo",
+    "gaming",
+    "third-person",
+    "xbox",
+    "playstation"
+  ],
+  "Blogs": [
+    "blog"
+  ],
+  "Jokes": [
+    "stand-up",
+    "comedian",
+    "joke",
+    "humour",
+    "anecdote"
+  ],
+  "Entertainment": [
+  ],
+  "Q&A": [
+    "why",
+    "how",
+    "when",
+    "where",
+    "?"
+  ],
+  "Audio": [
+    "mp3",
+    "flac",
+    "wav",
+    "soundtrack",
+    "audio"
+  ],
+  "Software": [
+    "install",
+    "app",
+    "server",
+    "software"
+  ],
+  "Local": [
+    "weather",
+    "near",
+    "forecast",
+    "local"
+  ]
+}

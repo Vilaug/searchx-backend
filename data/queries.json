@@ -1,0 +1,118 @@
+{
+  "Video": [
+    "videos",
+    "video clips",
+    "youtube videos"
+  ],
+  "Jobs": [
+    "jobs hiring",
+    "job vacancy",
+    "internships"
+  ],
+  "Academic": [
+    "university academic",
+    "academic research",
+    "academic paper"
+  ],
+  "Photo/Pictures": [
+    "photos",
+    "images",
+    "pictures"
+  ],
+  "Encyclopedia": [
+    "wiki",
+    "encyclopedias online",
+    "encyclopedia definition"
+  ],
+  "Travel": [
+    "flights",
+    "travel vacation",
+    "travel sightseeing"
+  ],
+  "Shopping": [
+    "shopping online",
+    "e-commerce order",
+    "buy online"
+  ],
+  "Tech": [
+    "tech news",
+    "tech advancements",
+    "tech giants"
+  ],
+  "Health": [
+    "Healthiness",
+    "bodybuilding",
+    "health injury"
+  ],
+  "Kids": [
+    "children toys",
+    "Kids cartoons",
+    "kids songs"
+  ],
+  "Recipes": [
+    "recipes",
+    "recipe ingredients",
+    "chicken recipes"
+  ],
+  "News": [
+    "recent news",
+    "news broadcast",
+    "newspapers"
+  ],
+  "Social": [
+    "social media",
+    "facebook",
+    "insta",
+    "tweets"
+  ],
+  "Books": [
+    "novel books",
+    "kindle",
+    "top books"
+  ],
+  "Sports": [
+    "sport news",
+    "goal",
+    "nba"
+  ],
+  "Games": [
+    "first person shooter games",
+    "best table top games",
+    "video games"
+  ],
+  "Blogs": [
+    "blog",
+    "blog diary",
+    "blog sites"
+  ],
+  "Jokes": [
+    "stand-up jokes",
+    "comedian",
+    "funny anecdote"
+  ],
+  "Entertainment": [
+    "celebrities tv",
+    "party news",
+    "entertainment"
+  ],
+  "Q&A": [
+    "q&a",
+    "how to boil egg",
+    "What is the meaning of life"
+  ],
+  "Audio": [
+    "mp3 audio download",
+    "movie soundtracks",
+    "audio"
+  ],
+  "Software": [
+    "software install",
+    "software apps",
+    "server"
+  ],
+  "Local": [
+    "local weather",
+    "restaurants near me",
+    "local election"
+  ]
+}
